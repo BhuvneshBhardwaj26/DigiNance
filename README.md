@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/2ae9de4c-de18-48ed-9076-c39e8df06c75" />
 🧩 Problem Statement
 Many individuals—especially those from rural or digitally underserved backgrounds—lack digital financial literacy. Challenges include understanding online payments (e.g., UPI), recognizing digital scams, calculating interest rates, or basic online personal budgeting. This knowledge gap can lead to fraud, poor money management, and digital exclusion for millions.
 
@@ -80,12 +81,6 @@ Vector Index retrieves content from trusted, uploaded financial documents
 
 AI agent delivers a grounded, user-friendly response
 
-🖼️ Screenshots
-Setting Up	Agent Instructions	Quick Start Questions	Tools & Testing	Deployment & Preview	API References	Resources List
-![agent](agent_instructions ![tools](tool_testing.jpggs.jpgesourses️ Recordings (watch to build your own)					
-Building
-
-Testing & Deployment
 
 📌 How to Run or Deploy
 Log into IBM Cloud Lite
@@ -116,19 +111,13 @@ Region-specific policy/news updates
 Multilingual expansion via Watson Language Translator
 
 🔗 Useful Links
-IBM Cloud Lite
-
-IBM Watsonx.ai
-
-RBI Official Website
-
-NPCI UPI FAQs
-
-IBM SkillsBuild
-
+https://cloud.ibm.com/registration
+https://www.ibm.com/products/watsonx-ai
+https://www.rbi.org.in/
+https://skillsbuild.org/
 ⚖️ License
 This project is licensed under the MIT License.
 
-Created with 💙 as part of IBM SkillsBuild for Academia Internship 2025 by [Your Name] — Connect with me on LinkedIn.
+Created with as part of IBM SkillsBuild for Academia Internship 2025 by Bhuvnesh Kumar Bhardwaj
 
 You can further personalize author info or links and add badges as needed!
